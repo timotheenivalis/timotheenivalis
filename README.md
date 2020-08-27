@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I am Timothée, Tim for short (he/him)
+
+I am an evolutionary biologist documenting real-time natural selection and genetic changes in wild animals.
+
+Find me the web:
+* Research and publications at [https://github.com/timotheenivalis](https://github.com/timotheenivalis)
+* News on twitter [@TimotheeBonnet](https://twitter.com/TimotheeBonnet)
 
 <!--
 **timotheenivalis/timotheenivalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
