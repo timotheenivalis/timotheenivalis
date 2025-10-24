@@ -4,7 +4,7 @@ I am an evolutionary biologist studying contemporary natural selection and genet
 
 Find me on the web:
 * Research and publications at [https://timotheenivalis.github.io/](https://timotheenivalis.github.io/)
-* News, thoughts and wildlife on Mastodon [@TimotheeBonnet at ecoevo.social](https://ecoevo.social/@TimotheeBonnet) or twitter [@TimotheeBonnet](https://twitter.com/TimotheeBonnet)
+* News, thoughts and wildlife on Mastodon [@TimotheeBonnet at ecoevo.social](https://ecoevo.social/@TimotheeBonnet).
 
 ---
 
